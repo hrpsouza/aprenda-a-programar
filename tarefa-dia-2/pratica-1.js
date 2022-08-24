@@ -1,8 +1,8 @@
-nome = "Henrique Pereira de Souza";
-email = "hrpsouza@outlook.com";
-profissao = "Bancário";
-idade = 50;
-destino = "NY";
+let nome = "Henrique Pereira de Souza";
+let email = "hrpsouza@outlook.com";
+let profissao = "Bancário";
+let idade = 50;
+let destino = "NY";
 console.log("nome: " + nome);
 console.log("email: " + email);
 console.log("Profissão: " + profissao);
